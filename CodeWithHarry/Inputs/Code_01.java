@@ -1,5 +1,5 @@
 //Adding two numbers
-package learn-buzz.CodeWithHarry.Inputs;
+package CodeWithHarry.Inputs;
 
 import java.util.Scanner;
 

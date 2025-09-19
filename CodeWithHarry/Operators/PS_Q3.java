@@ -1,6 +1,6 @@
 /*Use the comparison operator to find out whether a number is greater than the user number or hot.*/
 
-package learn-buzz.CodeWithHarry.Operators;
+package CodeWithHarry.Operators;
 
 import java.util.Scanner;
 

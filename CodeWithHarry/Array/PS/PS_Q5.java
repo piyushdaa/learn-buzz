@@ -1,6 +1,6 @@
 //java program to reverse an array
 
-package learn-buzz.CodeWithHarry.Array.PS;
+package CodeWithHarry.Array.PS;
 import java.util.Scanner;
 
 

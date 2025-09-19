@@ -1,6 +1,6 @@
 //To find the day of the week
 
-package learn-buzz.CodeWithHarry.Conditions.PS;
+package CodeWithHarry.Conditions.PS;
 
 import java.util.Scanner;
 

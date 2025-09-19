@@ -1,6 +1,6 @@
 //sum of first n even number using while loop
 
-package learn-buzz.CodeWithHarry.Loops.PS;
+package CodeWithHarry.Loops.PS;
 
 import java.util.Scanner;
 

@@ -1,6 +1,6 @@
 //Rock, paper scissor game
 
-package learn-buzz.CodeWithHarry.Conditions;
+package CodeWithHarry.Conditions;
 
 import java.util.Scanner;
 import java.util.Random;

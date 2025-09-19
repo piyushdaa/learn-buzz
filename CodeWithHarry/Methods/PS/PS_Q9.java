@@ -1,6 +1,6 @@
 //Q3 without recursion
 
-package learn-buzz.CodeWithHarry.Methods.PS;
+package CodeWithHarry.Methods.PS;
 import java.util.Scanner;
 public class PS_Q9 {
     static void sum(int num){

@@ -1,6 +1,6 @@
 //Repeat Q1 with while
 
-package learn-buzz.CodeWithHarry.Loops.PS;
+package CodeWithHarry.Loops.PS;
 
 public class PS_Q7a {
     public static void main(String[] args) {

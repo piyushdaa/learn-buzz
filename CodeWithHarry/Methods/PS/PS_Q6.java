@@ -1,6 +1,6 @@
 //average using method
 
-package learn-buzz.CodeWithHarry.Methods.PS;
+package CodeWithHarry.Methods.PS;
 import java.util.Scanner;
 
 public class PS_Q6 {

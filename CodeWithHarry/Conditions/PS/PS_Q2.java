@@ -1,6 +1,6 @@
 //Write a program to find out whether a Student is pass or fail: if it requires total 40%. and I at least 33% in each subject to pass.Assume 3 Subjects and take marks as an input from the user.
 
-package learn-buzz.CodeWithHarry.Conditions.PS;
+package CodeWithHarry.Conditions.PS;
 
 import java.util.Scanner;
 

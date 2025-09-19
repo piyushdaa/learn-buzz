@@ -1,6 +1,6 @@
 //WAP to greet the user with "Hello <user>, have a good day text".
 
-package learn-buzz.CodeWithHarry.Inputs.PS;
+package CodeWithHarry.Inputs.PS;
 
 import java.util.Scanner;
 

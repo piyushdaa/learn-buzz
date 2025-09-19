@@ -1,4 +1,4 @@
-package learn-buzz.CodeWithHarry.Operators;
+package CodeWithHarry.Operators;
 
 public class PS_Q5 {
     public static void main(String[] args) {

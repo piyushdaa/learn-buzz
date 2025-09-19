@@ -1,6 +1,6 @@
 //array sorted or not
 
-package learn-buzz.CodeWithHarry.Array.PS;
+package CodeWithHarry.Array.PS;
 import java.util.Scanner;
 
 public class PS_Q8 {

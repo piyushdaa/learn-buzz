@@ -1,6 +1,6 @@
 //check whether a number is present in an array or not
 
-package learn-buzz.CodeWithHarry.Array.PS;
+package CodeWithHarry.Array.PS;
 
 
 import java.util.Scanner;

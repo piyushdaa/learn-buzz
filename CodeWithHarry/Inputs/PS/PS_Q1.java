@@ -1,6 +1,6 @@
 //Write a program to sum three numbers in Java
 
-package learn-buzz.CodeWithHarry.Inputs.PS;
+package CodeWithHarry.Inputs.PS;
 
 import java.util.Scanner;
 

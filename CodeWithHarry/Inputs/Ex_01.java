@@ -1,6 +1,6 @@
 //WAP to calculate marks in % for 5 subjects. (100 marks/subject)
 
-package learn-buzz.CodeWithHarry.Inputs;
+package CodeWithHarry.Inputs;
 
 import java.util.Scanner;
 

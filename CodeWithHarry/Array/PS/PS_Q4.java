@@ -1,6 +1,6 @@
 //add 2 matrics of 2x3
 
-package learn-buzz.CodeWithHarry.Array.PS;
+package CodeWithHarry.Array.PS;
 
 import java.util.Scanner;
 

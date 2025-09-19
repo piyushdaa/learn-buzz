@@ -1,6 +1,6 @@
 //Write a jave program to encrypt a grade by adding 8 to it!. Decrypt it show the correct grade.
 
-package learn-buzz.CodeWithHarry.Operators;
+package CodeWithHarry.Operators;
 
 import java.util.Scanner;
 

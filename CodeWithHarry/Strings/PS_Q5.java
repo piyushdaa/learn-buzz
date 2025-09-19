@@ -1,6 +1,6 @@
 //Format using escape char
 
-package learn-buzz.CodeWithHarry.Strings;
+package CodeWithHarry.Strings;
 
 
 public class PS_Q5 {

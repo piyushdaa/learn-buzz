@@ -3,7 +3,7 @@
 //**
 //*
 
-package learn-buzz.CodeWithHarry.Loops.PS;
+package CodeWithHarry.Loops.PS;
 
 
 public class PS_Q1 {

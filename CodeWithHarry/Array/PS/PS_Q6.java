@@ -1,6 +1,6 @@
 //max number in array
 
-package learn-buzz.CodeWithHarry.Array.PS;
+package CodeWithHarry.Array.PS;
 import java.util.Scanner;
 
 public class PS_Q6 {

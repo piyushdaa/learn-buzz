@@ -1,6 +1,6 @@
 //WAP to calculate CGPA using marks of three subjects (out of 100).
 
-package learn-buzz.CodeWithHarry.Inputs.PS;
+package CodeWithHarry.Inputs.PS;
 
 import java.util.Scanner;
 

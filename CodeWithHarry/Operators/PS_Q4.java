@@ -1,6 +1,6 @@
 //Finding distance
 
-package learn-buzz.CodeWithHarry.Operators;
+package CodeWithHarry.Operators;
 
 import java.util.Scanner;
 

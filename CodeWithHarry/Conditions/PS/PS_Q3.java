@@ -5,7 +5,7 @@ Income Slab  Tax
 Above 10.0L 30%
 Note that there is no tax below 2.5L. Take input amount as an input from the user.*/
 
-package learn-buzz.CodeWithHarry.Conditions.PS;
+package CodeWithHarry.Conditions.PS;
 
 import java.util.Scanner;
 

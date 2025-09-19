@@ -1,6 +1,6 @@
 //Code to convert all into lowercase
 
-package learn-buzz.CodeWithHarry.Strings;
+package CodeWithHarry.Strings;
 
 import java.util.Scanner;
 

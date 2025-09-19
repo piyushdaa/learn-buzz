@@ -1,6 +1,6 @@
 //factorial of given number using for loop
 
-package learn-buzz.CodeWithHarry.Loops.PS;
+package CodeWithHarry.Loops.PS;
 
 import java.util.Scanner;
 

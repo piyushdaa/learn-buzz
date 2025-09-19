@@ -1,6 +1,6 @@
 //Detecting double or triple spaces
 
-package learn-buzz.CodeWithHarry.Strings;
+package CodeWithHarry.Strings;
 
 import java.util.Scanner;
 

@@ -1,6 +1,6 @@
 //Sum of numbers occuring in table of 8
 
-package learn-buzz.CodeWithHarry.Loops.PS;
+package CodeWithHarry.Loops.PS;
 import java.util.Scanner;
 
 public class PS_Q9 {

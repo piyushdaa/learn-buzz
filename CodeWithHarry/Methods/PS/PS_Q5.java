@@ -1,6 +1,6 @@
 //print nth term of fibonacci series
 
-package learn-buzz.CodeWithHarry.Methods.PS;
+package CodeWithHarry.Methods.PS;
 import java.util.Scanner;
 public class PS_Q5 {
     static int fibo(int num){

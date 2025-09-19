@@ -1,6 +1,6 @@
 //Repeat 5 with while loop
 
-package learn-buzz.CodeWithHarry.Loops.PS;
+package CodeWithHarry.Loops.PS;
 import java.util.Scanner;
 
 public class PS_Q6 {
