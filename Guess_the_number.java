@@ -1,7 +1,5 @@
 //Guess the number game (OOPs Edition)
 
-package Java_Learn.OOPs;
-
 //Importing Scanner and Random Class
 
 
@@ -38,7 +36,7 @@ class game {
     }
 
 }
-public class Ex_03 {
+public class Guess_the_number {
     public static void main(String[] args){
 
         //Creating Scanner and Game Object
