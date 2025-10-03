@@ -1,4 +1,4 @@
-//WAP to calculate CGPA using marks of three subjects (out of 100).
+// Program to calculate CGPA using marks of three subjects (out of 100)
 
 package Java_Learn.Inputs.PS;
 
@@ -7,6 +7,7 @@ import java.util.Scanner;
 public class PS_Q2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
+        // Prompt user to enter subject names
         System.out.println("Enter Subjects...");
         System.out.print("Enter Subject 1: ");
         String sub_1 = sc.next();
@@ -14,6 +15,8 @@ public class PS_Q2 {
         String sub_2 = sc.next();
         System.out.print("Enter Subject 3: ");
         String sub_3 = sc.next();
+
+        // Prompt user to enter marks for each subject
         System.out.println("Enter Marks (out of 100)...");
         System.out.print(sub_1 + " : ");
         float marks_1 = sc.nextFloat();
@@ -22,8 +25,10 @@ public class PS_Q2 {
         System.out.print(sub_3 + " : ");
         float marks_3 = sc.nextFloat();
 
+        // Calculate CGPA (average marks divided by 9.5)
         double cgpa = ((marks_1 + marks_2 + marks_3) / 3) / 9.5;
 
+        // Display CGPA with two decimal points
         System.out.printf("CGPA: %.2f", cgpa);
     }
 }
