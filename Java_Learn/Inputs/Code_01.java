@@ -1,4 +1,5 @@
 // Program to add two numbers entered by the user
+
 package Java_Learn.Inputs;
 
 import java.util.Scanner; // Import Scanner class for user input
