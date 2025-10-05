@@ -1,10 +1,8 @@
 /*
 Exercise 5: Custom Geometry Package using Inheritance
-
 Problem Statement: Create a custom Java package (suggested name: 'codewithharry') 
 containing geometry classes. Use inheritance to properly manage the code. 
 Implement methods in these classes to handle geometric calculations and properties.
-
 Requirements:
 1. Create a Custom Package [1].
 2. Include the following classes, preferably inheriting from a base class like 'Shape' [1, 2]:
@@ -18,27 +16,26 @@ Requirements:
 4. Consider using dimension variables (e.g., dim1, dim2) in the base class to manage 
    varying dimensions (length, breadth, radius, height) across different shapes [3].
 */
-
 package Java_Learn.OOPs.Custom_Package;
 import java.util.Scanner;
 import Java_Learn.OOPs.Custom_Package.Shape.*;
-
-
 public class Main{
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         Shape shape; 
-
         int choice;
         int choice2;
         OUTER: 
+        // Main program loop
         while (true) {
             System.out.println("1. Area\n2.Volume\n3.Exit");
             choice = sc.nextInt();
+            // Process user's main menu choice
             switch (choice) {
                 case 1 -> {
                     System.out.println("1. Circle\n2. Square\n3. Rectangle\n4. Sphere\n5. Cylinder");
                     choice2 = sc.nextInt();
+                    // Calculate area based on shape selection
                     switch (choice2) {
                         case 1 -> {
                             System.out.println("Enter radius: ");
@@ -83,6 +80,7 @@ public class Main{
                 case 2 -> {
                     System.out.println("1. Cylinder\n2. Sphere");
                     choice2 = sc.nextInt();
+                    // Calculate volume based on shape selection
                     switch (choice2){
                         case 1 -> {
                             System.out.println("Enter radius: ");
@@ -105,6 +103,7 @@ public class Main{
                 }
                 case 3 -> {
                     System.err.println("Exiting...");
+                    // Exit the main loop
                     break OUTER;
                 }
                 default -> System.err.println("Wrong choice...");
