@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 //Circle class -> parent class
 class circle {
-    private double radius;
+    private final double radius;
 
     public circle(double radius) {
         this.radius = radius;
@@ -18,7 +18,7 @@ class circle {
 
 //Cylinder Class -> child class
 class cylinder extends circle {
-    private double height;
+    private final double height;
 
     public cylinder(double radius, double height) {
         super(radius);
